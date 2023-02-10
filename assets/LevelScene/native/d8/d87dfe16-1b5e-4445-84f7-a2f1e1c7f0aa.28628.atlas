@@ -1,0 +1,188 @@
+
+haiyao.png
+size: 1048,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eyes (1)
+  rotate: false
+  xy: 164, 104
+  size: 94, 29
+  orig: 94, 29
+  offset: 0, 0
+  index: -1
+eyes (2)
+  rotate: false
+  xy: 260, 104
+  size: 94, 29
+  orig: 94, 29
+  offset: 0, 0
+  index: -1
+eyes (3)
+  rotate: false
+  xy: 488, 119
+  size: 94, 29
+  orig: 94, 30
+  offset: 0, 0
+  index: -1
+shou (1)
+  rotate: false
+  xy: 951, 118
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+shou (2)
+  rotate: false
+  xy: 951, 73
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+shou (3)
+  rotate: false
+  xy: 964, 5
+  size: 78, 66
+  orig: 78, 67
+  offset: 0, 1
+  index: -1
+shou (4)
+  rotate: false
+  xy: 853, 3
+  size: 109, 58
+  orig: 109, 58
+  offset: 0, 0
+  index: -1
+snake (1)
+  rotate: false
+  xy: 491, 3
+  size: 138, 114
+  orig: 138, 114
+  offset: 0, 0
+  index: -1
+snake (10)
+  rotate: true
+  xy: 745, 12
+  size: 114, 106
+  orig: 114, 106
+  offset: 0, 0
+  index: -1
+snake (11)
+  rotate: false
+  xy: 491, 156
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+snake (12)
+  rotate: false
+  xy: 340, 150
+  size: 149, 118
+  orig: 149, 118
+  offset: 0, 0
+  index: -1
+snake (2)
+  rotate: false
+  xy: 253, 6
+  size: 105, 96
+  orig: 105, 96
+  offset: 0, 0
+  index: -1
+snake (3)
+  rotate: false
+  xy: 863, 170
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+snake (4)
+  rotate: false
+  xy: 853, 63
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+snake (5)
+  rotate: true
+  xy: 950, 182
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+snake (6)
+  rotate: false
+  xy: 744, 163
+  size: 117, 105
+  orig: 117, 105
+  offset: 0, 0
+  index: -1
+snake (7)
+  rotate: false
+  xy: 631, 7
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+snake (8)
+  rotate: true
+  xy: 621, 158
+  size: 110, 121
+  orig: 110, 121
+  offset: 0, 0
+  index: -1
+snake (9)
+  rotate: true
+  xy: 360, 2
+  size: 109, 129
+  orig: 109, 129
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 3
+  size: 98, 249
+  orig: 98, 249
+  offset: 0, 0
+  index: -1
+tou (2)
+  rotate: true
+  xy: 2, 103
+  size: 165, 160
+  orig: 165, 160
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 164, 135
+  size: 174, 133
+  orig: 174, 133
+  offset: 0, 0
+  index: -1
+zui (1)
+  rotate: true
+  xy: 738, 128
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+zui (2)
+  rotate: false
+  xy: 668, 131
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+图层 11
+  rotate: false
+  xy: 584, 121
+  size: 82, 33
+  orig: 82, 33
+  offset: 0, 0
+  index: -1
+图层 14
+  rotate: false
+  xy: 356, 113
+  size: 130, 35
+  orig: 130, 36
+  offset: 0, 0
+  index: -1

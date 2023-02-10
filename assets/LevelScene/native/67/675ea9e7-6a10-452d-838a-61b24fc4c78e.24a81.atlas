@@ -1,0 +1,90 @@
+
+nongmin.png
+size: 609,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm1 #206966
+  rotate: false
+  xy: 108, 5
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+Arm2 #206965
+  rotate: false
+  xy: 2, 2
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+Body #206946
+  rotate: true
+  xy: 326, 20
+  size: 90, 123
+  orig: 90, 123
+  offset: 0, 0
+  index: -1
+Chain1
+  rotate: true
+  xy: 451, 41
+  size: 69, 134
+  orig: 70, 134
+  offset: 1, 0
+  index: -1
+Fetter2
+  rotate: false
+  xy: 451, 5
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Hat #206969
+  rotate: true
+  xy: 145, 113
+  size: 157, 67
+  orig: 157, 67
+  offset: 0, 0
+  index: -1
+Head #206973
+  rotate: true
+  xy: 214, 16
+  size: 94, 110
+  orig: 94, 110
+  offset: 0, 0
+  index: -1
+ItemCross
+  rotate: true
+  xy: 214, 112
+  size: 158, 393
+  orig: 158, 393
+  offset: 0, 0
+  index: -1
+Leg1 #206977
+  rotate: false
+  xy: 2, 78
+  size: 70, 192
+  orig: 70, 192
+  offset: 0, 0
+  index: -1
+Leg2 #206959
+  rotate: false
+  xy: 74, 85
+  size: 69, 185
+  orig: 69, 185
+  offset: 0, 0
+  index: -1
+Mouth #206952
+  rotate: false
+  xy: 145, 89
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+fetter1
+  rotate: true
+  xy: 486, 8
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1

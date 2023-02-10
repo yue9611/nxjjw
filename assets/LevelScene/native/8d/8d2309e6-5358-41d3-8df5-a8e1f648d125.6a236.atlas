@@ -1,0 +1,48 @@
+
+guohe.png
+size: 927,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 587, 112
+  orig: 587, 112
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 591, 33
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 591, 82
+  size: 334, 189
+  orig: 334, 189
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 116
+  size: 584, 155
+  orig: 585, 155
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 627, 38
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: true
+  xy: 591, 15
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

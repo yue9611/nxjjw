@@ -1,0 +1,83 @@
+
+diyuquan.png
+size: 497,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body #206480
+  rotate: true
+  xy: 2, 55
+  size: 231, 194
+  orig: 231, 194
+  offset: 0, 0
+  index: -1
+CerberusPl_8
+  rotate: false
+  xy: 198, 124
+  size: 140, 162
+  orig: 140, 162
+  offset: 0, 0
+  index: -1
+DwJaw
+  rotate: true
+  xy: 415, 13
+  size: 122, 80
+  orig: 123, 81
+  offset: 1, 0
+  index: -1
+Head #206483
+  rotate: false
+  xy: 340, 137
+  size: 138, 149
+  orig: 139, 151
+  offset: 1, 2
+  index: -1
+Leg1 #206492
+  rotate: true
+  xy: 2, 2
+  size: 51, 90
+  orig: 51, 90
+  offset: 0, 0
+  index: -1
+LegDw1 #206493
+  rotate: true
+  xy: 214, 4
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+Lvl1.3Choose0
+  rotate: false
+  xy: 288, 18
+  size: 125, 104
+  orig: 127, 106
+  offset: 1, 0
+  index: -1
+Tail #206249
+  rotate: false
+  xy: 198, 58
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+eye1 #206495
+  rotate: true
+  xy: 94, 13
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+eye2 #206490
+  rotate: true
+  xy: 134, 13
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+eye4 #206253
+  rotate: true
+  xy: 174, 13
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1

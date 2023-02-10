@@ -1,0 +1,76 @@
+
+tree.png
+size: 749,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lvl3.1Choose0
+  rotate: true
+  xy: 521, 20
+  size: 129, 109
+  orig: 132, 111
+  offset: 2, 1
+  index: -1
+Lvl3.1Choose1
+  rotate: true
+  xy: 395, 32
+  size: 117, 124
+  orig: 120, 126
+  offset: 1, 1
+  index: -1
+SnBody_1
+  rotate: false
+  xy: 663, 144
+  size: 84, 164
+  orig: 84, 164
+  offset: 0, 0
+  index: -1
+Snake
+  rotate: true
+  xy: 632, 12
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+Snake_eyeDeath
+  rotate: false
+  xy: 436, 19
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Snake_eyes
+  rotate: false
+  xy: 450, 19
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+Tongue
+  rotate: true
+  xy: 395, 2
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+Tree_0
+  rotate: true
+  xy: 632, 68
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+Tree_1
+  rotate: true
+  xy: 395, 151
+  size: 157, 266
+  orig: 157, 266
+  offset: 0, 0
+  index: -1
+Tree_2
+  rotate: false
+  xy: 2, 2
+  size: 391, 306
+  orig: 391, 307
+  offset: 0, 1
+  index: -1

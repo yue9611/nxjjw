@@ -1,0 +1,76 @@
+
+shouwei.png
+size: 364,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm1 #37662
+  rotate: false
+  xy: 184, 363
+  size: 129, 162
+  orig: 129, 162
+  offset: 0, 0
+  index: -1
+Arm2 #37661
+  rotate: false
+  xy: 233, 200
+  size: 129, 161
+  orig: 129, 161
+  offset: 0, 0
+  index: -1
+Body #37656
+  rotate: true
+  xy: 2, 131
+  size: 154, 229
+  orig: 154, 229
+  offset: 0, 0
+  index: -1
+Head #37664
+  rotate: true
+  xy: 2, 2
+  size: 127, 166
+  orig: 127, 166
+  offset: 0, 0
+  index: -1
+Item #37663
+  rotate: false
+  xy: 2, 287
+  size: 180, 238
+  orig: 180, 238
+  offset: 0, 0
+  index: -1
+Leg1 #37665
+  rotate: false
+  xy: 233, 32
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+Mouth #37657
+  rotate: true
+  xy: 170, 19
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+eyes1 #37666
+  rotate: true
+  xy: 170, 66
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+eyes4 #37659
+  rotate: true
+  xy: 184, 298
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 195, 30
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1

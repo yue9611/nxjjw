@@ -1,0 +1,111 @@
+
+hongemo.png
+size: 504,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2AKM (1)
+  rotate: true
+  xy: 340, 266
+  size: 129, 161
+  orig: 129, 161
+  offset: 0, 0
+  index: -1
+2AKM (10)
+  rotate: false
+  xy: 184, 297
+  size: 154, 229
+  orig: 154, 229
+  offset: 0, 0
+  index: -1
+2AKM (11)
+  rotate: false
+  xy: 221, 95
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+2AKM (12)
+  rotate: true
+  xy: 284, 136
+  size: 128, 166
+  orig: 128, 166
+  offset: 0, 0
+  index: -1
+2AKM (13)
+  rotate: true
+  xy: 340, 397
+  size: 129, 162
+  orig: 129, 162
+  offset: 0, 0
+  index: -1
+2AKM (2)
+  rotate: true
+  xy: 452, 201
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+2AKM (3)
+  rotate: false
+  xy: 2, 288
+  size: 180, 238
+  orig: 180, 238
+  offset: 0, 0
+  index: -1
+2AKM (4)
+  rotate: false
+  xy: 156, 120
+  size: 126, 166
+  orig: 126, 166
+  offset: 0, 0
+  index: -1
+2AKM (5)
+  rotate: true
+  xy: 284, 8
+  size: 126, 166
+  orig: 126, 166
+  offset: 0, 0
+  index: -1
+2AKM (6)
+  rotate: false
+  xy: 156, 83
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+2AKM (7)
+  rotate: true
+  xy: 452, 136
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+2AKM (8)
+  rotate: false
+  xy: 156, 46
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+2AKM (9)
+  rotate: false
+  xy: 284, 266
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+Chair
+  rotate: false
+  xy: 2, 37
+  size: 152, 249
+  orig: 154, 251
+  offset: 1, 2
+  index: -1
+Zzz
+  rotate: true
+  xy: 2, 2
+  size: 33, 31
+  orig: 35, 32
+  offset: 1, 0
+  index: -1

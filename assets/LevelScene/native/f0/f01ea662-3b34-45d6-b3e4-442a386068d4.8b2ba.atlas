@@ -1,0 +1,62 @@
+
+hongxiong.png
+size: 1140,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm1 #201291
+  rotate: true
+  xy: 2, 18
+  size: 98, 214
+  orig: 98, 214
+  offset: 0, 0
+  index: -1
+Arm2 #64099
+  rotate: false
+  xy: 987, 56
+  size: 151, 193
+  orig: 151, 193
+  offset: 0, 0
+  index: -1
+Body #64096
+  rotate: true
+  xy: 810, 251
+  size: 221, 270
+  orig: 221, 270
+  offset: 0, 0
+  index: -1
+Head #64102
+  rotate: false
+  xy: 810, 63
+  size: 175, 186
+  orig: 175, 186
+  offset: 0, 0
+  index: -1
+IceBear
+  rotate: true
+  xy: 2, 118
+  size: 354, 488
+  orig: 354, 488
+  offset: 0, 0
+  index: -1
+Leg1 #201300
+  rotate: true
+  xy: 218, 2
+  size: 114, 157
+  orig: 114, 157
+  offset: 0, 0
+  index: -1
+SnowBear
+  rotate: false
+  xy: 492, 4
+  size: 316, 468
+  orig: 316, 468
+  offset: 0, 0
+  index: -1
+Steam
+  rotate: false
+  xy: 377, 2
+  size: 80, 114
+  orig: 80, 114
+  offset: 0, 0
+  index: -1
